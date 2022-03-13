@@ -2,4 +2,10 @@
 
 # Pet Lover
 
-Site petshop para vendas de produtos para animais domesticos
+## 🐶🐱🐰 Site petshop para vendas de produtos para animais domesticos
+
+Site para vendas de produtos para pets. Construido em:
+* HTML
+* SASS/SCSS
+* JavaScript
+* PHP
